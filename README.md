@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # Section09
 
 - 투두 리스트(section08) 파일 복제해서 사용
+- useReduce 사용
